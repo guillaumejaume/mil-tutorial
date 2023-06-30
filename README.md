@@ -18,12 +18,12 @@ We recommend using Google Colab for running the main notebook. All default Colab
 
 The workshop will take place on the 6th and 7th of July from 9:00 to 18:00 CET. 
 
-| Time      | Title                                | Type              |                  
-|-----------|--------------------------------------|------------------------|
-| 9:00-10:30 | Session 1                                | Presentation and coding        |
-| 10:30-11:00 | Break                                | -        |
-| 11:00-12:30 | Session 2       | Coding          |
-| 12:30-14:30 | Break                                | -        |
-| 14:30-16:00 | Session 3                              | Coding                      |
-| 16:00-16:30 | Break                                | -        |
-| 16:30-18:00 | Session 4 | Presentation and coding |
+| Time      | Title                                |                
+|-----------|--------------------------------------|
+| 9:00-10:30 | Session 1: Intro to QuPath and OpenSlide |
+| 10:30-11:00 | Break                                |
+| 11:00-12:30 | Session 2: Multiple Instance Learning (MIL) |
+| 12:30-14:30 | Break                                |
+| 14:30-16:00 | Session 3: Interpretability of MIL methods                           |
+| 16:00-16:30 | Break                                |
+| 16:30-18:00 | Session 4: Broader considerations |
